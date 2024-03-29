@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\portfolio\\Algorithms2420\\Stack\\Stack\\",
+  "WorkspaceRootPath": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\Stack\\Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A71A383E-E5B8-4437-8D2F-4E443BC8B0EA}|Stack.vcxproj|D:\\portfolio\\Algorithms2420\\Stack\\Stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A71A383E-E5B8-4437-8D2F-4E443BC8B0EA}|Stack.vcxproj|C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\Stack\\Stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A71A383E-E5B8-4437-8D2F-4E443BC8B0EA}|Stack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\portfolio\\Algorithms2420\\Stack\\Stack\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\Stack\\Stack\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\portfolio\\Algorithms2420\\Stack\\Stack\\main.cpp",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\Stack\\Stack\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAGAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-29T22:53:56.582Z",
               "EditorCaption": ""
