@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|c:\\users\\hamme\\documents\\school\\c#\\lab06_jh_v1\\cdaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|solutionrelative:cdaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|c:\\users\\hamme\\documents\\school\\c#\\lab06_jh_v1\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|c:\\users\\hamme\\documents\\school\\c#\\lab06_jh_v1\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|solutionrelative:searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|c:\\users\\hamme\\documents\\school\\c#\\lab06_jh_v1\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A4BC6FB-2D0E-43EC-991A-0401101B1D99}|Lab06_JH_v1.csproj|solutionrelative:searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDAccount.cs",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\CDAccount.cs",
+              "RelativeDocumentMoniker": "CDAccount.cs",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\CDAccount.cs",
+              "RelativeToolTip": "CDAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:44:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-10T23:18:51.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\SearchPage.xaml.cs",
+              "RelativeToolTip": "SearchPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-10T21:20:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "SearchPage.xaml",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\School\\C#\\Lab06_JH_v1\\SearchPage.xaml",
+              "RelativeToolTip": "SearchPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-10T21:06:23.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

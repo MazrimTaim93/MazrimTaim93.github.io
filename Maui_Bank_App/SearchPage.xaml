@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab06_JH_v1.SearchPage"
+             Title="SearchPage">
+    <Grid ColumnDefinitions="*, *"
+          RowDefinitions="50, *"
+          Padding="10">
+
+        <Entry Placeholder="Account number"
+               x:Name="accountEntry"
+               Grid.Column="0"
+               Grid.Row="0"/>
+        
+        <Button Text="Search"
+                Grid.Column="1"
+                Grid.Row="0"
+                x:Name="searchBtn"
+                BackgroundColor="Green"
+                Clicked="Search"/>
+
+        <Label Text=""
+               x:Name="outputLabel"
+               Grid.ColumnSpan="2"
+               Grid.Row="1"/>
+
+    </Grid>
+</ContentPage>
