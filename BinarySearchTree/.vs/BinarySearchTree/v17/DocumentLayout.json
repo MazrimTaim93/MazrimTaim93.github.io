@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{417E8ABC-4B07-48EE-8869-3E28047340BC}|BinarySearchTree.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTree.cpp",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.cpp",
+              "RelativeDocumentMoniker": "BinarySearchTree.cpp",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.cpp",
+              "RelativeToolTip": "BinarySearchTree.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T22:15:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearchTree.h",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.h",
+              "RelativeDocumentMoniker": "BinarySearchTree.h",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\BinarySearchTree.h",
+              "RelativeToolTip": "BinarySearchTree.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T22:14:01.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\hamme\\Documents\\GitHub\\MazrimTaim93.github.io\\BinarySearchTree\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T22:12:18.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
