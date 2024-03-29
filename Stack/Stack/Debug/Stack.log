@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Jake\Documents\School\Algorithms2420\Stack\Stack\main.cpp(54,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jake\Documents\School\Algorithms2420\Stack\Stack\main.cpp(107,20): warning C4018:  '<': signed/unsigned mismatch
+  Stack.vcxproj -> C:\Users\Jake\Documents\School\Algorithms2420\Stack\Stack\Debug\Stack.exe
